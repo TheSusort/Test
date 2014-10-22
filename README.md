@@ -1,4 +1,4 @@
 Assignments
 ===========
 
-Reference solutions to assignments
+Starting files for assignments
