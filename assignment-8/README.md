@@ -26,6 +26,6 @@ Optional extra features for pro programmers (you may select zero or more of thes
 Delivery
 --------
 
-  1. Push your solution to github
+  1. Push your solution to github (all files related to the assignment should be under `yourusername-assignments/assignment-8`, that is, this folder)
   2. Deploy it on the unix servers so that it is available at <http://www.ux.uis.no/~yourusername/dat310-memory>
   3. Submit your unix username on itslearning
