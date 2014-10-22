@@ -1,4 +1,4 @@
 Assignments
 ===========
 
-Starting files for assignments
+DAT310 assignments
